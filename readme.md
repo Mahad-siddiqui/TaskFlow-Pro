@@ -14,3 +14,10 @@ TaskFlow-Pro is an advanced task management system built with Flutter for the mo
 - **Real-time Updates** - Synchronize task changes across devices
 - **Cross-Platform** - Available on iOS, Android, Web, Windows, macOS, and Linux
 - **Database Integration** - Persistent data storage with secure backend
+
+## 🛠️ Tech Stack
+
+### Frontend (Mobile & Desktop)
+- **Framework**: Flutter
+- **Language**: Dart
+- **Platforms**: iOS, Android, Web, Windows, macOS, Linux
