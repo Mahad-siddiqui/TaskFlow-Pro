@@ -29,3 +29,15 @@ TaskFlow-Pro is an advanced task management system built with Flutter for the mo
 - **Testing**: Jest
 
 ## 📁 Project Structure
+
+```
+TaskFlow-Pro/
+├── app/                    # Flutter application (frontend)
+│   ├── lib/               # Dart source code
+│   ├── android/           # Android native code
+│   ├── ios/               # iOS native code
+│   ├── windows/           # Windows native code
+│   ├── macos/             # macOS native code
+│   ├── linux/             # Linux native code
+│   ├── web/               # Web build assets
+│   └── pubspec.yaml       # Flutter dependencies
