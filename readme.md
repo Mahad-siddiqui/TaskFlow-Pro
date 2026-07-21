@@ -27,3 +27,5 @@ TaskFlow-Pro is an advanced task management system built with Flutter for the mo
 - **Language**: TypeScript
 - **Database**: (Configured in database module)
 - **Testing**: Jest
+
+## 📁 Project Structure
