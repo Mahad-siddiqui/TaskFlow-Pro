@@ -41,3 +41,8 @@ TaskFlow-Pro/
 │   ├── linux/             # Linux native code
 │   ├── web/               # Web build assets
 │   └── pubspec.yaml       # Flutter dependencies
+│
+└── server/                 # NestJS backend API
+    ├── src/              # TypeScript source code
+    │   ├── main.ts       # Application entry point
+    │   ├── app.module.ts # Main module
