@@ -46,3 +46,8 @@ TaskFlow-Pro/
     ├── src/              # TypeScript source code
     │   ├── main.ts       # Application entry point
     │   ├── app.module.ts # Main module
+    │   ├── users/        # User management module
+    │   └── database/     # Database configuration
+    ├── test/             # Test files
+    └── package.json      # Node dependencies
+```
