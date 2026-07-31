@@ -51,3 +51,18 @@ TaskFlow-Pro/
     ├── test/             # Test files
     └── package.json      # Node dependencies
 ```
+
+## 🚀 Getting Started
+
+### Prerequisites
+- **Flutter SDK** (for app development)
+- **Node.js** (v16 or higher for backend)
+- **npm** or **yarn** (for package management)
+
+### Installation
+
+#### Frontend Setup
+```bash
+cd app
+flutter pub get
+```
