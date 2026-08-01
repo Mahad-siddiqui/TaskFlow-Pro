@@ -66,3 +66,9 @@ TaskFlow-Pro/
 cd app
 flutter pub get
 ```
+
+#### Backend Setup
+```bash
+cd server
+npm install
+```
